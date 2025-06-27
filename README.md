@@ -1,2 +1,1 @@
-# dashboard
 Realizei uma dashboard se baseando nas aulas do professor Felipe, onde deixei de forma organizada limpa, com filtros e logos indicando o que cada dado representa com foco na funcionalidade simples e eficaz.
